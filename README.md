@@ -29,3 +29,9 @@ A bookmarklet for the browser based on cssunminifier allowing you to turn this:
 into this:
 
 ![](http://i.imgur.com/gTvjUBs.png)
+
+
+# License
+
+[MIT License](http://en.wikipedia.org/wiki/MIT_License)
+(c) [Addy Osmani](http://addyosmani.com)
