@@ -22,13 +22,40 @@ inside:Prism.languages.markup.tag.inside},rest:Prism.languages.css}}});var prism
 document.head.innerHTML="";document.head.appendChild(prismStyle);document.body.innerHTML="<code><pre>"+highlighted+"</pre></code>"})();
 ```
 
-A bookmarklet for the browser based on cssunminifier allowing you to turn this:
+### Before
 
-![](http://i.imgur.com/x59Jyg0.png)
+```css
+.callout{margin:15px 0;padding:10px;font-size:13px;color:#8d8d6d;background:#fffef1;border:1px solid #e5e2c8;border-radius:4px;}.callout strong{font-weight:bold;color:#000;}.callout h2{margin:0;font-size:16px;font-weight:300;}.callout p:last-child{margin-bottom:0;}
+```
 
-into this:
+### After
 
-![](http://i.imgur.com/gTvjUBs.png)
+```css
+.callout {
+    margin: 15px 0;
+    padding: 10px;
+    font-size: 13px;
+    color: #8d8d6d;
+    background: #fffef1;
+    border: 1px solid #e5e2c8;
+    border-radius: 4px;
+}
+
+.callout strong {
+    font-weight: bold;
+    color: #000;
+}
+
+.callout h2 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.callout p:last-child {
+    margin-bottom: 0;
+}
+```
 
 
 # License
