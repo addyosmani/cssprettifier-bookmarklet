@@ -1,9 +1,8 @@
 cssprettifier-bookmarklet
 =========================
-A convenient bookmarklet for unminifying your CSS. 
+A convenient bookmarklet for unminifying your CSS in the browser.
 
-A hopefully useful bookmarklet until we get the ability 
-to do this directly inside the Chrome DevTools.
+![](http://i.imgur.com/bwnKoeY.png)
 
 # Uses
 
