@@ -6,8 +6,8 @@ A convenient bookmarklet for unminifying your CSS in the browser.
 
 # Uses
 
-* cssbeautifier
-* Prism
+* [cssbeautifier](http://www.codebeautifier.com/)
+* [Prism](http://prismjs.com/)
 
 # Installation
 
@@ -34,7 +34,6 @@ document.head.innerHTML="";document.head.appendChild(prismStyle);document.body.i
 
 A [UserScript](https://github.com/sindresorhus/cssprettifier-userscript) for this project by Sindre Sorhus is also available.
 
-# Screenshots
 
 ### Before
 
@@ -75,4 +74,4 @@ A [UserScript](https://github.com/sindresorhus/cssprettifier-userscript) for thi
 # License
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
-(c) [Addy Osmani](http://addyosmani.com)
+(c) [Addy Osmani](http://addyosmani.com) and [Sindre Sorhus](http://sindresorhus.com)
