@@ -1,0 +1,39 @@
+{
+  "name": "cssprettifier-bookmarklet",
+  "description": "A bookmarklet for unminifying and prettifying CSS",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "Addy Osmani",
+    "email": "addyosmani@gmail.com",
+    "url": "http://addyosmani.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/addyosmani/cssprettifier-bookmarklet.git"
+  },
+  "bugs": {
+    "url": "http://github.com/addyosmani/cssprettifier-bookmarklet"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/cssprettifier-bookmarklet",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "~0.1.2",
+    "grunt-contrib-uglify": "~0.1.1",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt": "~0.4.1"
+  },
+  "keywords": []
+}
