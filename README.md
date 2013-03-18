@@ -1,7 +1,9 @@
 cssprettifier-bookmarklet
 =========================
-A convenient bookmarklet for unminifying and prettifying CSS in the browser. Also available as a [UserScript](https://github.com/sindresorhus/cssprettifier-userscript). A DevTools [extension](https://chrome.google.com/webstore/detail/prettyprint/nipdlgebaanapcphbcidpmmmkcecpkhg/details)
-based on cssbeautify which automatically prettifies your CSS/JS is also available.
+A convenient bookmarklet for unminifying and prettifying CSS in the browser. 
+
+Also available as a [UserScript](https://github.com/sindresorhus/cssprettifier-userscript) by [Sindre Sorhus](http://sindresorhus.com) or an existing DevTools [extension](https://chrome.google.com/webstore/detail/prettyprint/nipdlgebaanapcphbcidpmmmkcecpkhg/details)
+by [Gildas Lormeau](https://github.com/gildas-lormeau/).
 
 <img src="http://i.imgur.com/hqBQhyB.gif" width="500px"/>
 
