@@ -14,6 +14,10 @@ Tested in Chrome stable, canary channels.
 * [cssbeautifier](http://senchalabs.github.com/cssbeautify/)
 * [Prism](http://prismjs.com/)
 
+# Usage
+
+View Source -> run the bookmarklet or alternatively use it as a [DevTools snippet](http://bgrins.github.io/devtools-snippets/#cssprettifier).
+
 # Installation
 
 Get it now. Copy/paste:
@@ -23,7 +27,6 @@ javascript:(function(){(function(){function a(a,b){function s(a){return" "===a||
 ```
 
 or [use this](https://raw.github.com/addyosmani/cssprettifier-bookmarklet/master/dist/bookmarklet.md).
-
 
 
 ### Before
