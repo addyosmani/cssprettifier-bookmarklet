@@ -9,7 +9,7 @@ by [Gildas Lormeau](https://github.com/gildas-lormeau/).
 
 Tested in Chrome stable, canary channels.
 
-# Uses
+# Various Uses
 
 * [cssbeautifier](http://senchalabs.github.com/cssbeautify/)
 * [Prism](http://prismjs.com/)
@@ -18,7 +18,7 @@ Tested in Chrome stable, canary channels.
 
 View Source -> run the bookmarklet or alternatively use it as a [DevTools snippet](http://bgrins.github.io/devtools-snippets/#cssprettifier).
 
-# Installation
+# Installation Process
 
 Get it now. Copy/paste:
 
